@@ -1,2 +1,3 @@
-# linkedinAssessment
-linkedinAssessment : git for linkedin questions that are pretty interesting and I can win badges and learn
+# Qustion 
+
+- [Time for First Hello](https://www.moesif.com/blog/technical/api-product-management/What-is-TTFHW/)
