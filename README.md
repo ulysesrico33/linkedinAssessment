@@ -10,3 +10,4 @@ Linkedin assessmnets are a good way what's my level. It has very good assessmnet
 - [Http responses 429 for to many requests ](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429)
 - [50 C# interview questions to find the best developer](https://www.testgorilla.com/blog/c-sharp-interview-questions/?utm_term=&utm_campaign=Performance+Max+%7C+RoW+Old&utm_source=google&utm_medium=cpc&hsa_acc=4932434860&hsa_cam=13402555368&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwlumhBhClARIsABO6p-yDA4MHHOB6ZgaXMQO-q-3QasKKIJWvTIwPljOJPWzNeCZi6xK4OswaAiaGEALw_wcB)
 - [Top 50 C# Interview Questions and Answers (2023)](https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions/)
+- [Tutorials point C# (and others)](https://www.tutorialspoint.com/csharp/index.htm)
