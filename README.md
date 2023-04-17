@@ -4,6 +4,9 @@ I found that even I have been developing software for 11 years and even I like i
 
 Linkedin assessmnets are a good way what's my level. It has very good assessmnets.
 
+# Wiki
+- [Wiki](https://github.com/ulysesrico33/linkedinAssessment/wiki)
+
 # Links
 
 - [Time for First Hello](https://www.moesif.com/blog/technical/api-product-management/What-is-TTFHW/)
